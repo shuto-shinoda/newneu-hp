@@ -52,4 +52,3 @@ production:
   database: newneu_hp_production
   username: newneu_hp
   password: <%= ENV['NEWNEU_HP_DATABASE_PASSWORD'] %>
-  

@@ -10,10 +10,9 @@
 
     <title>Hello, world!</title>
   </head>
-  <body>
-
+  <body class="bg-light">
     <header>
-      <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+      <nav class="navbar navbar-expand-el navbar-light bg-dark">
         <a class="navbar-brand text-white" href="#">newneu.</a>
         <button class="navbar-toggler bg-white" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -39,6 +38,7 @@
         </div>
       </nav>
     </header>
+
     <!--スライドショー-->
     <div class="keyvisual">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -49,13 +49,13 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="assets/d63957-1-479948-0.jpg" class="d-block w-100" alt="...">
+            <%= image_tag "d63957-1-479948-0.jpg", class:"d-block w-100"%>
           </div>
           <div class="carousel-item">
-            <img src="assets/d63957-1-881455-1.jpg" class="d-block w-100" alt="...">
+            <%= image_tag "d63957-1-881455-1.jpg", class:"d-block w-100"%>
           </div>
           <div class="carousel-item">
-            <img src="assets/d63957-1-166171-2.jpg" class="d-block w-100" alt="...">
+            <%= image_tag "d63957-1-166171-2.jpg", class:"d-block w-100"%>
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -78,12 +78,12 @@
         PLAY YOUR OWN
         newneu. brings a playful spirit and inspiration to your life. Our unlimited creative possibility products were born from the perceptional change toward what a so-called “bag” in the market actually is. These ideas are turned into forms by teaming up with the japanese craftsmanship. Here we proudly deliver the quality and originality of “Tokyo-creation” to the world.        </div>
         <div class="col-md-6 col-12 p-0 align-self-center">
-          <img class="img-fluid" src="assets/shop.jpg" alt="">
+          <<%= image_tag "shop.jpg", class:"img-fluid"%>
         </div>
       </div>
       <div class="d-flex flex-wrap justify-content-center">
         <div class="col-md-6 col-12 p-0 align-self-center">
-          <img class="img-fluid" src="assets/bag.jpg" alt="">
+          <img class="img-fluid" src="/assets/bag.jpg" alt="">
         </div>
         <div class="col-md-6 col-12 p-0 align-self-center h3 p-4">
           デザインの一部を自分の思い通りに動かしオリジナルを作り上げる。newneu.は手にした人の個性と可能性を引き出すミニマルなプラットフォーム。
@@ -97,7 +97,7 @@
         <h2 class="text-center py-3">YouTube</h2>
       </div>
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dVP_f7Mn1BI" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://youtu.be/dVP_f7Mn1BI" allowfullscreen></iframe>
       </div>
 
     <!--カード-->
@@ -107,7 +107,7 @@
       <div class="row">
         <div class="col-md-4 col-12">
           <div class="card">
-            <img src="assets/youtube.png" class="card-img-top" alt="...">
+            <img src="/assets/youtube.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">newneu.CHANNEL</h5>
               <p class="card-text">
@@ -118,7 +118,7 @@
         </div>
         <div class="col-md-4 col-12">
           <div class="card">
-            <img src="assets/instagram.png" class="card-img-top" alt="...">
+            <img src="/assets/instagram.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">newneu.news</h5>
               <p class="card-text">
@@ -130,7 +130,7 @@
         </div>
         <div class="col-md-4 col-12">
           <div class="card">
-            <img src="assets/twitter.png" class="card-img-top" alt="...">
+            <img src="/assets/twitter.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">newneu. STORE TOKYO</h5>
               <p class="card-text">
@@ -159,14 +159,10 @@ Shinsuke Washizawa is CEO of the succeeding 100 years construction company, also
 2015 he launched diffusion line “ne. by <b>newneu.</b>” which started license businesses.<br>
 2016 <b>newneu.</b> was exhibited at Premiere class in Paris and MICAM in MILAN.<br>
 2016 <b>newneu.</b> open a retail store in Daikanyama.
-			        </div>
               <div class="mx-5">
-                <img class="img-fluid rounded-circle" src="assets/washi.jpg" alt="">
+                <img class="img-fluid rounded-circle" src="/assets/washi.jpg" alt="">
               </div>
-			        <div class="data mt40"><p>鷲澤 心介</p>
-              </div>
-
-              <div class="data mt20">
+<p>鷲澤 心介</p>
 1977 年東京都生まれ。現職の大工でもある。<br>
 2003 年 Corroche co.,ltd を設立し、高円寺にセレクトショップSAL をオープン。<br>
 2007 年 『 <b>newneu.</b>』を立ち上げる。<br>
@@ -177,14 +173,11 @@ sacai. とのコラボレーションラインを発表。<br>
 2012 年 ファーストエキシビションをスタート。<br>
 2013 年 株式会社ニューニューを設立。<br>
 2014 年 パリ、ボンマルシェにて開催された『Le Japon Rive Gauche』展に出展。<br>
-2015 年　ディフュージョンライン“ne. by <b>newneu.</b>” を発表し、ライセンスビジネスの展開をスタート。<br>
-2016 年　プルミエール・クラス/ パリ、MICAM/ ミラノに出展。<br>
-2016 年　代官山に<b>newneu.</b> の直営店をオープン。          <div class="col-md-4 col-12">
-              </div>
-            </div>
-          </div>
-        </div>
+2015 年 ディフュージョンライン“ne. by <b>newneu.</b>” を発表し、ライセンスビジネスの展開をスタート。<br>
+2016 年 プルミエール・クラス/ パリ、MICAM/ ミラノに出展。<br>
+2016 年 代官山に<b>newneu.</b> の直営店をオープン。          <div class="col-md-4 col-12">
       </div>
+      
     </footer>
 
     <!-- Optional JavaScript -->

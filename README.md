@@ -1,5 +1,7 @@
 # newnew-hp
 
+## App URL
+https://newneu-hp.herokuapp.com
 # 実装済み
 onlineshopへのリンク
 BRAND CONCEPTの表示

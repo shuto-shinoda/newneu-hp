@@ -1,31 +1,47 @@
 # newnew-hp
+<img width="1438" alt="d2a6b5415be1253308d65a44f8a69fb1" src="https://user-images.githubusercontent.com/69189662/106354321-575b9100-6334-11eb-8fd2-6c37cd663209.png">
 
 ## App URL
 https://newneu-hp.herokuapp.com
 # 実装済み
-onlineshopへのリンク
-BRAND CONCEPTの表示
-youtube動画の表示
-SNSのリンク
-デザイナープロフィール
+
+・レスポンシブデザイン
+<img width="499" alt="f7e752cdc92579764e6e3e6523adc9c4" src="https://user-images.githubusercontent.com/69189662/106354412-f7b1b580-6334-11eb-92b4-8150c00784e9.png">
+
+・onlineshopへのリンク
+
+・SNSのリンク
+<img width="711" alt="382d48c492a09753ebcd9211814a7a05" src="https://user-images.githubusercontent.com/69189662/106354694-013c1d00-6337-11eb-9992-08dad8b9c96e.png">
+
+・BRAND CONCEPTの表示
+![642d8213e32fb75b13c16cb2204556d6](https://user-images.githubusercontent.com/69189662/106354792-9fc87e00-6337-11eb-943c-b3f4e22159b8.jpg)
+![bd50b9c39de01a2b695fd1630aee0fe2](https://user-images.githubusercontent.com/69189662/106354797-a7882280-6337-11eb-9bfc-c2fe1af1d67c.jpg)
+
+・DESIGNER PROFILE
+<img width="1437" alt="5e4db8e6845b8caffc77c52a25ed172d" src="https://user-images.githubusercontent.com/69189662/106354889-28471e80-6338-11eb-98c9-24a623543cee.png">
+
+・PRESS詳細
+<img width="1430" alt="266c6d82477c79de390ae2698c2ac140" src="https://user-images.githubusercontent.com/69189662/106354948-8116b700-6338-11eb-995c-06a8e2b6b2b5.png">
 
 # 実装予定
-質問ページ実装
-プレス宛へのリンク
-ログイン機能実装
-customer購入機能の実装
-admin出品機能実装
+
+・質問ページ実装
+
+・ログイン機能実装
 
 # ファッションブランドのホームページと紐ずくオンラインショップ作成
-ホームページを見たら興味がそそるようなホームページを作成できるように心がけました。
 
-オンラインショップも購入したくなるようなページにしたく実装予定です。
+・ホームページを見たら興味がそそるようなホームページを作成できるように心がけました。
 
-実装に伴いページにはブランドの強みを分かりやすくするように心がけました。
+・オンラインショップも購入したくなるようなページにしたく実装予定です。
 
-ナビゲーションバーより見たいところにすぐ移動ができるようリンクを記述し画像を多くすることで分かりやすく飽きないページになるようにしました。
+・実装に伴いページにはブランドの強みを分かりやすくするように心がけました。
 
-# テーブル設計
+・ナビゲーションバーより見たいところにすぐ移動ができるようリンクました。
+
+・画像を多くすることで飽きないページになるよう心がけました。
+
+# テーブル設計（実装予定のテーブル、カラムも含まれてます）
 
 ## admin テーブル
 

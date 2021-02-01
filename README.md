@@ -6,11 +6,13 @@ https://newneu-hp.herokuapp.com
 # 実装済み
 
 ・レスポンシブデザイン
+PCでもスマホでも的確なサイズで表示されるようにしました。
 <img width="499" alt="f7e752cdc92579764e6e3e6523adc9c4" src="https://user-images.githubusercontent.com/69189662/106354412-f7b1b580-6334-11eb-92b4-8150c00784e9.png">
 
 ・onlineshopへのリンク
 
 ・SNSのリンク
+Youtube、Instagramへのリンクを一つづつ表示すると見づらくなるので、まとめてをプルダウンで表示されるようにしました。
 <img width="711" alt="382d48c492a09753ebcd9211814a7a05" src="https://user-images.githubusercontent.com/69189662/106354694-013c1d00-6337-11eb-9992-08dad8b9c96e.png">
 
 ・BRAND CONCEPTの表示

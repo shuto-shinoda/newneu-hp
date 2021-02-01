@@ -9,20 +9,30 @@ https://newneu-hp.herokuapp.com
 PCでもスマホでも的確なサイズで表示されるようにしました。
 <img width="499" alt="f7e752cdc92579764e6e3e6523adc9c4" src="https://user-images.githubusercontent.com/69189662/106354412-f7b1b580-6334-11eb-92b4-8150c00784e9.png">
 
-・onlineshopへのリンク
+#・onlineshopへのリンク
 
-・SNSのリンク
+#・SNSのリンク
+
 Youtube、Instagramへのリンクを一つづつ表示すると見づらくなるので、まとめてをプルダウンで表示されるようにしました。
 <img width="711" alt="382d48c492a09753ebcd9211814a7a05" src="https://user-images.githubusercontent.com/69189662/106354694-013c1d00-6337-11eb-9992-08dad8b9c96e.png">
 
-・BRAND CONCEPTの表示
+#・BRAND CONCEPTの表示
+
+どんなブランドなのか興味を持ってもらえるように画像を含め表示されるようにしました。
+
 ![642d8213e32fb75b13c16cb2204556d6](https://user-images.githubusercontent.com/69189662/106354792-9fc87e00-6337-11eb-943c-b3f4e22159b8.jpg)
 ![bd50b9c39de01a2b695fd1630aee0fe2](https://user-images.githubusercontent.com/69189662/106354797-a7882280-6337-11eb-9bfc-c2fe1af1d67c.jpg)
 
-・DESIGNER PROFILE
+#・DESIGNER PROFILE
+
+ブランドの顔であるデザイナーがどんな事をしてきてブランドがあるのか理解してもらえるように表記しました。
+
 <img width="1437" alt="5e4db8e6845b8caffc77c52a25ed172d" src="https://user-images.githubusercontent.com/69189662/106354889-28471e80-6338-11eb-98c9-24a623543cee.png">
 
-・PRESS詳細
+#・PRESS詳細
+
+ブランドに興味を持ったスタイリストや取り扱いたいと思ってくれた代理店などがコンタクトをとる為に必要な情報を表記しました。
+
 <img width="1430" alt="266c6d82477c79de390ae2698c2ac140" src="https://user-images.githubusercontent.com/69189662/106354948-8116b700-6338-11eb-995c-06a8e2b6b2b5.png">
 
 # 実装予定

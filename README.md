@@ -2,7 +2,7 @@
 <img width="1438" alt="d2a6b5415be1253308d65a44f8a69fb1" src="https://user-images.githubusercontent.com/69189662/106354321-575b9100-6334-11eb-8fd2-6c37cd663209.png">
 
 ## App URL
-https://newneu-hp.herokuapp.com
+http://176.34.21.118:3000/
 
 # 概要
 
@@ -36,7 +36,7 @@ Youtube、Instagramへのリンクを一つづつ表示すると見づらくな�
 
 ブランドの顔であるデザイナーがどんな事をしてきてブランドがあるのか理解してもらえるように表記しました。
 
-<img width="1437" alt="5e4db8e6845b8caffc77c52a25ed172d" src="https://user-images.githubusercontent.com/69189662/106354889-28471e80-6338-11eb-98c9-24a623543cee.png">
+<img width="1439" alt="8d456bb841d179df8c43bb174016ac03" src="https://user-images.githubusercontent.com/69189662/106999459-915fe380-67c9-11eb-99a9-6668110c29ba.png">
 
 ### `・PRESS詳細`
 

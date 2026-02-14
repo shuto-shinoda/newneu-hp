@@ -1,0 +1,58 @@
+[
+  {
+    "id": "g1",
+    "src": "/images/gallery-01.jpg",
+    "alt": "synapse. vol.3 - フロアの様子",
+    "eventSlug": "synapse-vol3",
+    "type": "photo"
+  },
+  {
+    "id": "g2",
+    "src": "/images/gallery-02.jpg",
+    "alt": "synapse. vol.3 - DJ ブースからの眺め",
+    "eventSlug": "synapse-vol3",
+    "type": "photo"
+  },
+  {
+    "id": "g3",
+    "src": "/images/gallery-03.jpg",
+    "alt": "synapse. vol.3 - レーザー演出",
+    "eventSlug": "synapse-vol3",
+    "type": "photo"
+  },
+  {
+    "id": "g4",
+    "src": "/images/gallery-04.jpg",
+    "alt": "synapse. vol.2 - オーディエンス",
+    "eventSlug": "synapse-vol2",
+    "type": "photo"
+  },
+  {
+    "id": "g5",
+    "src": "/images/gallery-05.jpg",
+    "alt": "synapse. vol.2 - VJスクリーン",
+    "eventSlug": "synapse-vol2",
+    "type": "photo"
+  },
+  {
+    "id": "g6",
+    "src": "/images/gallery-06.jpg",
+    "alt": "synapse. vol.1 - 記念すべき最初の夜",
+    "eventSlug": "synapse-vol1",
+    "type": "photo"
+  },
+  {
+    "id": "g7",
+    "src": "/images/gallery-07.jpg",
+    "alt": "synapse. vol.1 - エントランス",
+    "eventSlug": "synapse-vol1",
+    "type": "photo"
+  },
+  {
+    "id": "g8",
+    "src": "/images/gallery-08.jpg",
+    "alt": "synapse. vol.1 - ミラーボール",
+    "eventSlug": "synapse-vol1",
+    "type": "photo"
+  }
+]

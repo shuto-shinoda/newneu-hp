@@ -1,0 +1,21 @@
+{
+  "name": "synapse.",
+  "tagline": "Connect the groove.",
+  "description": "synapse. は、東京を拠点とするクラブ/ダンスミュージックイベント。テクノ・ハウスを軸に、国内外のDJが織りなす一夜限りのシナプスが、フロアで踊るすべての人を繋ぐ。",
+  "url": "https://synapse-event.com",
+  "ogImage": "/images/og-image.jpg",
+  "social": {
+    "instagram": "https://instagram.com/synapse_event",
+    "twitter": "https://twitter.com/synapse_event",
+    "soundcloud": "https://soundcloud.com/synapse-event"
+  },
+  "contact": {
+    "email": "info@synapse-event.com"
+  },
+  "about": {
+    "concept": "synapse.（シナプス）── それは神経細胞をつなぐ接合部。音楽とフロア、DJとオーディエンス、夜と朝。あらゆる境界が溶け合い、一つのグルーヴに接続される場所。私たちは東京のクラブシーンに新しいシナプスを創り出します。",
+    "mission": "国内外の才能あるDJ/アーティストを招聘し、サウンド・空間・演出のすべてにこだわり抜いたイベント体験を届けること。一夜限りの非日常空間で、音楽を通じた本質的なつながりを生み出すこと。",
+    "founded": "2024",
+    "organizer": "NEWNEU"
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "synapse-vol4-michael-bibi",
+    "title": "NEWNEU× synapse. presents MICHAEL BIBI",
+    "date": "2025-09-06",
+    "dayOfWeek": "SAT",
+    "openTime": "22:00",
+    "closeTime": "05:00",
+    "venue": {
+      "name": "WOMB",
+      "address": "2-16 Maruyama-cho, Shibuya-ku, Tokyo",
+      "mapUrl": "https://maps.google.com/?q=WOMB+Shibuya"
+    },
+    "flyerImage": "/images/flyer-vol4.jpg",
+    "description": "synapse. 史上最大のインターナショナルゲストを迎えた一夜。UKテクノシーンの寵児 MICHAEL BIBI が渋谷 WOMB に降臨。フロアを揺らすグルーヴィーかつダークなサウンドで、夜明けまで踊り続ける。",
+    "lineup": [
+      { "name": "MICHAEL BIBI", "role": "HEADLINER", "djSlug": "michael-bibi" },
+      { "name": "Rui", "role": "GUEST", "djSlug": "rui" },
+      { "name": "KANA", "role": "RESIDENT", "djSlug": "kana" },
+      { "name": "SHUTO", "role": "RESIDENT", "djSlug": "shuto" },
+      { "name": "TARO", "role": "RESIDENT", "djSlug": "taro" }
+    ],
+    "ticketUrl": "https://example.com/tickets/synapse-vol4",
+    "tickets": [
+      { "type": "SUPER EARLY BIRD", "price": 3500, "status": "SOLD OUT" },
+      { "type": "EARLY BIRD", "price": 4000, "status": "SOLD OUT" },
+      { "type": "ADV", "price": 4500, "status": "ON SALE" },
+      { "type": "DOOR", "price": 5500, "status": "AT DOOR" }
+    ],
+    "status": "upcoming",
+    "isFeatured": true,
+    "tags": ["techno", "house", "international"]
+  },
+  {
+    "slug": "synapse-vol3",
+    "title": "synapse. vol.3",
+    "date": "2025-06-14",
+    "dayOfWeek": "SAT",
+    "openTime": "23:00",
+    "closeTime": "05:00",
+    "venue": {
+      "name": "WOMB",
+      "address": "2-16 Maruyama-cho, Shibuya-ku, Tokyo",
+      "mapUrl": "https://maps.google.com/?q=WOMB+Shibuya"
+    },
+    "flyerImage": "/images/flyer-vol3.jpg",
+    "description": "synapse. 第3弾。レジデント陣に加え、東京アンダーグラウンドシーンを牽引するゲストDJが集結。WOMBのサウンドシステムで体感する極上のテクノナイト。",
+    "lineup": [
+      { "name": "DJ NOBU", "role": "GUEST", "djSlug": "dj-nobu" },
+      { "name": "KANA", "role": "RESIDENT", "djSlug": "kana" },
+      { "name": "SHUTO", "role": "RESIDENT", "djSlug": "shuto" },
+      { "name": "TARO", "role": "RESIDENT", "djSlug": "taro" }
+    ],
+    "ticketUrl": "https://example.com/tickets/synapse-vol3",
+    "tickets": [
+      { "type": "ADV", "price": 3000, "status": "SOLD OUT" },
+      { "type": "DOOR", "price": 3500, "status": "SOLD OUT" }
+    ],
+    "status": "past",
+    "isFeatured": false,
+    "tags": ["techno"]
+  },
+  {
+    "slug": "synapse-vol2",
+    "title": "synapse. vol.2",
+    "date": "2025-03-22",
+    "dayOfWeek": "SAT",
+    "openTime": "23:00",
+    "closeTime": "05:00",
+    "venue": {
+      "name": "WOMB",
+      "address": "2-16 Maruyama-cho, Shibuya-ku, Tokyo",
+      "mapUrl": "https://maps.google.com/?q=WOMB+Shibuya"
+    },
+    "flyerImage": "/images/flyer-vol2.jpg",
+    "description": "synapse. 第2弾。好評を博した初回に続き、さらにディープなラインナップで渋谷の夜を彩る。",
+    "lineup": [
+      { "name": "KANA", "role": "RESIDENT", "djSlug": "kana" },
+      { "name": "SHUTO", "role": "RESIDENT", "djSlug": "shuto" },
+      { "name": "TARO", "role": "RESIDENT", "djSlug": "taro" },
+      { "name": "YUKI", "role": "GUEST", "djSlug": "yuki" }
+    ],
+    "ticketUrl": "",
+    "tickets": [],
+    "status": "past",
+    "isFeatured": false,
+    "tags": ["techno", "house"]
+  },
+  {
+    "slug": "synapse-vol1",
+    "title": "synapse. vol.1",
+    "date": "2024-12-07",
+    "dayOfWeek": "SAT",
+    "openTime": "23:00",
+    "closeTime": "05:00",
+    "venue": {
+      "name": "WOMB",
+      "address": "2-16 Maruyama-cho, Shibuya-ku, Tokyo",
+      "mapUrl": "https://maps.google.com/?q=WOMB+Shibuya"
+    },
+    "flyerImage": "/images/flyer-vol1.jpg",
+    "description": "すべてはここから始まった。synapse. 記念すべき第1回。東京のクラブシーンに新たなシナプスを繋ぐ、最初の一夜。",
+    "lineup": [
+      { "name": "KANA", "role": "RESIDENT", "djSlug": "kana" },
+      { "name": "SHUTO", "role": "RESIDENT", "djSlug": "shuto" },
+      { "name": "TARO", "role": "RESIDENT", "djSlug": "taro" }
+    ],
+    "ticketUrl": "",
+    "tickets": [],
+    "status": "past",
+    "isFeatured": false,
+    "tags": ["techno"]
+  }
+]

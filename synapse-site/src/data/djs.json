@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "michael-bibi",
+    "name": "MICHAEL BIBI",
+    "photo": "/images/dj-michael-bibi.jpg",
+    "role": "HEADLINER",
+    "genre": ["Tech House", "Techno"],
+    "bio": "イギリス出身のDJ/プロデューサー。独自のグルーヴィーなテックハウスサウンドで世界中のフロアを熱狂させる。Solid Grooves のレジデントとして知られ、Ibiza を拠点に活動。彼のダークかつメロディックなセットは、一度体験すれば忘れられない。",
+    "social": {
+      "instagram": "https://instagram.com/michaelbibi",
+      "twitter": "https://twitter.com/michael_bibi",
+      "soundcloud": "https://soundcloud.com/michael-bibi",
+      "mixcloud": ""
+    },
+    "isResident": false
+  },
+  {
+    "slug": "kana",
+    "name": "KANA",
+    "photo": "/images/dj-kana.jpg",
+    "role": "RESIDENT",
+    "genre": ["Techno", "Minimal"],
+    "bio": "synapse. レジデントDJ。ミニマルテクノを軸に、繊細かつ力強いサウンドでフロアを構築する。東京のアンダーグラウンドシーンで着実にファンベースを拡大中。",
+    "social": {
+      "instagram": "https://instagram.com/kana_dj",
+      "twitter": "",
+      "soundcloud": "https://soundcloud.com/kana-dj",
+      "mixcloud": "https://mixcloud.com/kana-dj"
+    },
+    "isResident": true
+  },
+  {
+    "slug": "shuto",
+    "name": "SHUTO",
+    "photo": "/images/dj-shuto.jpg",
+    "role": "RESIDENT",
+    "genre": ["Techno", "Progressive"],
+    "bio": "synapse. レジデントDJ兼オーガナイザー。プログレッシブなテクノサウンドを得意とし、長尺セットでフロアのエネルギーをコントロールする。synapse. の音楽的方向性を牽引するキーパーソン。",
+    "social": {
+      "instagram": "https://instagram.com/shuto_dj",
+      "twitter": "https://twitter.com/shuto_dj",
+      "soundcloud": "https://soundcloud.com/shuto-dj",
+      "mixcloud": ""
+    },
+    "isResident": true
+  },
+  {
+    "slug": "taro",
+    "name": "TARO",
+    "photo": "/images/dj-taro.jpg",
+    "role": "RESIDENT",
+    "genre": ["House", "Techno"],
+    "bio": "synapse. レジデントDJ。ハウスからテクノまで幅広いレンジをカバーし、温かみのあるグルーヴでフロアを包み込む。オープニングからピークタイムまで、あらゆる時間帯に対応できる懐の深さが武器。",
+    "social": {
+      "instagram": "https://instagram.com/taro_dj",
+      "twitter": "",
+      "soundcloud": "https://soundcloud.com/taro-dj",
+      "mixcloud": "https://mixcloud.com/taro-dj"
+    },
+    "isResident": true
+  },
+  {
+    "slug": "rui",
+    "name": "Rui",
+    "photo": "/images/dj-rui.jpg",
+    "role": "GUEST",
+    "genre": ["Techno", "Acid"],
+    "bio": "東京を拠点に活動するDJ/プロデューサー。アシッドテクノを軸としたハードなサウンドで、フロアにエッジの効いたエネルギーを注入する。国内外のフェスやクラブイベントに多数出演。",
+    "social": {
+      "instagram": "https://instagram.com/rui_dj",
+      "twitter": "",
+      "soundcloud": "https://soundcloud.com/rui-dj",
+      "mixcloud": ""
+    },
+    "isResident": false
+  },
+  {
+    "slug": "dj-nobu",
+    "name": "DJ NOBU",
+    "photo": "/images/dj-nobu.jpg",
+    "role": "GUEST",
+    "genre": ["Techno"],
+    "bio": "日本を代表するテクノDJの一人。千葉 Future Terror の主宰として国内テクノシーンを長年牽引。Berghain をはじめ世界の名だたるクラブに出演。深遠かつ催眠的なプレイスタイルが特徴。",
+    "social": {
+      "instagram": "https://instagram.com/djnobu",
+      "twitter": "",
+      "soundcloud": "https://soundcloud.com/dj-nobu",
+      "mixcloud": ""
+    },
+    "isResident": false
+  },
+  {
+    "slug": "yuki",
+    "name": "YUKI",
+    "photo": "/images/dj-yuki.jpg",
+    "role": "GUEST",
+    "genre": ["Deep House", "Melodic Techno"],
+    "bio": "メロディックテクノとディープハウスを融合させた独自のサウンドスケープを構築するDJ。心地よいパッドとドライブ感のあるビートで、感情的なジャーニーへと導く。",
+    "social": {
+      "instagram": "https://instagram.com/yuki_dj",
+      "twitter": "",
+      "soundcloud": "https://soundcloud.com/yuki-dj",
+      "mixcloud": ""
+    },
+    "isResident": false
+  }
+]
